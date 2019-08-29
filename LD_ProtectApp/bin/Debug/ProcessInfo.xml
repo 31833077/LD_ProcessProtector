@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<applications>
+	<application Name="ConsoleApp2" Path="E:\repos\ConsoleApp2\ConsoleApp2\bin\Debug" StartArgs="Hello World" Cycle="5000"/>
+	<application Name="RedisDemo" Path="E:\repos\ConsoleApp4\ConsoleApp4\bin\Debug" StartArgs="Fuck World" Cycle="5000"/>
+</applications>
